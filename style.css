@@ -1,0 +1,31 @@
+.border {
+  border: 1px solid black;
+}
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.blog {
+  width: 40%;
+  margin: auto;
+}
+
+.blog img {
+  width: 100%;
+  height: 300px;
+}
+.btn {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  background-color: dodgerblue;
+  color: white;
+}
+
+.btn-dark {
+  float: right;
+}
+.fas {
+  font-size: 13px;
+}
